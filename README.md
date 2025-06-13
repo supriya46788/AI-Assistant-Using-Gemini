@@ -13,3 +13,6 @@ This is a two-feature AI-powered web application that lets you interact with a s
    - Upload any image and the AI will describe what it sees.
    - Useful for object detection, accessibility, or just for fun.
    - Powered by Gemini.
+
+
+![Uploading Screenshot 2025-06-13 091507.png…]()
