@@ -15,4 +15,5 @@ This is a two-feature AI-powered web application that lets you interact with a s
    - Powered by Gemini.
 
 
-![Uploading Screenshot 2025-06-13 091507.png…]()
+
+![Screenshot 2025-06-13 091507](https://github.com/user-attachments/assets/5d84a258-b330-4544-8256-66062ae60113)
